@@ -2,7 +2,7 @@ import random
 
 def random_integer(min, max):
     """
-    Generate a random integer between a minimum and maximum value
+    Generate a random integer between a minimum and  maximum value
     """
     return random.randint(min, max)
 
